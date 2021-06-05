@@ -1,4 +1,4 @@
-### Hello World! :milky_way:
+### :zap: Hello World! ✨ 
 
 <!--
 **thanesh56/thanesh56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
